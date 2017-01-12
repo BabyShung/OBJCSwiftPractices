@@ -15,6 +15,7 @@
 		B80F4B851E247E630089EF41 /* OBJCSwiftPracticesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80F4B841E247E630089EF41 /* OBJCSwiftPracticesTests.swift */; };
 		B80F4B901E247E630089EF41 /* OBJCSwiftPracticesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80F4B8F1E247E630089EF41 /* OBJCSwiftPracticesUITests.swift */; };
 		B84102421E25DE8F008B71E6 /* ItemsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B84102411E25DE8F008B71E6 /* ItemsViewController.swift */; };
+		B84102441E2736F3008B71E6 /* WebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B84102431E2736F3008B71E6 /* WebService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B80F4B8F1E247E630089EF41 /* OBJCSwiftPracticesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OBJCSwiftPracticesUITests.swift; sourceTree = "<group>"; };
 		B80F4B911E247E630089EF41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B84102411E25DE8F008B71E6 /* ItemsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemsViewController.swift; sourceTree = "<group>"; };
+		B84102431E2736F3008B71E6 /* WebService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B80F4B6F1E247E620089EF41 /* AppDelegate.swift */,
 				B80F4B711E247E620089EF41 /* ViewController.swift */,
 				B84102411E25DE8F008B71E6 /* ItemsViewController.swift */,
+				B84102431E2736F3008B71E6 /* WebService.swift */,
 				B80F4B731E247E620089EF41 /* Main.storyboard */,
 				B80F4B761E247E620089EF41 /* Assets.xcassets */,
 				B80F4B781E247E620089EF41 /* LaunchScreen.storyboard */,
@@ -267,6 +270,7 @@
 			files = (
 				B80F4B721E247E620089EF41 /* ViewController.swift in Sources */,
 				B84102421E25DE8F008B71E6 /* ItemsViewController.swift in Sources */,
+				B84102441E2736F3008B71E6 /* WebService.swift in Sources */,
 				B80F4B701E247E620089EF41 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
