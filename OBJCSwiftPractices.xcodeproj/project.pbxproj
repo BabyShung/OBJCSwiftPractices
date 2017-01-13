@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B80AEA2D1E28665200ACDD7D /* CustomNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80AEA2C1E28665200ACDD7D /* CustomNotification.swift */; };
 		B80F4B701E247E620089EF41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80F4B6F1E247E620089EF41 /* AppDelegate.swift */; };
 		B80F4B721E247E620089EF41 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80F4B711E247E620089EF41 /* ViewController.swift */; };
 		B80F4B751E247E620089EF41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B80F4B731E247E620089EF41 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B80AEA2C1E28665200ACDD7D /* CustomNotification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomNotification.swift; sourceTree = "<group>"; };
 		B80F4B6C1E247E620089EF41 /* OBJCSwiftPractices.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OBJCSwiftPractices.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B80F4B6F1E247E620089EF41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B80F4B711E247E620089EF41 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				B80F4B711E247E620089EF41 /* ViewController.swift */,
 				B84102411E25DE8F008B71E6 /* ItemsViewController.swift */,
 				B84102431E2736F3008B71E6 /* WebService.swift */,
+				B80AEA2C1E28665200ACDD7D /* CustomNotification.swift */,
 				B80F4B731E247E620089EF41 /* Main.storyboard */,
 				B80F4B761E247E620089EF41 /* Assets.xcassets */,
 				B80F4B781E247E620089EF41 /* LaunchScreen.storyboard */,
@@ -268,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B80AEA2D1E28665200ACDD7D /* CustomNotification.swift in Sources */,
 				B80F4B721E247E620089EF41 /* ViewController.swift in Sources */,
 				B84102421E25DE8F008B71E6 /* ItemsViewController.swift in Sources */,
 				B84102441E2736F3008B71E6 /* WebService.swift in Sources */,
